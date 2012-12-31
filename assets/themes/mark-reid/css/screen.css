@@ -547,3 +547,12 @@ img.maruku-png { }
 	color:#FFF;
 }
 
+/* front page */
+span.prlin2 {
+    float: right;
+    padding: 2px 2px 2px 2px;
+    border:1px solid gray;
+    margin: 2px 2px 1px 12px;
+    display: block;
+}
+span.prlin2 img { display: block; } /* get rid of extra white pixel under img */
